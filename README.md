@@ -37,6 +37,5 @@ This project aims to analyze the Telco customer churn data to uncover the primar
 
 The analysis culminated in visualizations and dashboards crafted in Tableau, providing actionable insights into customer churn. Further recommendations to address and reduce customer churn are detailed in the report.
 
----
+## Dashboard Images:
 
-This README.md file outlines the objectives, methodology, and key outcomes of the Telco Customer Churn Analysis project, focusing on leveraging data analytics to improve customer retention strategies.
