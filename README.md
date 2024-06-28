@@ -35,6 +35,11 @@ This project aims to analyze the Telco customer churn data to uncover the primar
 
 ## Results
 
+<img src="dashboard snap 1.png">
+<img src="dashboard snap 2.png">
+<img src="dashboard snap 3.png">
+<img src="dashboard snap 4.png">
+
 The analysis culminated in visualizations and dashboards crafted in Tableau, providing actionable insights into customer churn. Further recommendations to address and reduce customer churn are detailed in the report.
 
 ## Dashboard Images:
