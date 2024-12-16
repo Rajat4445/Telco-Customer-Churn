@@ -1,4 +1,5 @@
-# <center> Telco Customer Churn Analysis
+# <center> Telco Customer Churn Analysis 
+Full Presentation: `Telco Customer Churn.pdf` (Check Above)
 
 ## Introduction
 
